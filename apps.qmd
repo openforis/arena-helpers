@@ -9,7 +9,6 @@ title: "Applications"
     Provides indicative optimal sample size and plot design for forest inventories based on biomass maps or variance models and a minimalist series of action timers (driving to plot, measuring trees, etc.).
 
     -   Online version: [link](URL)
-
     -   Local installation (R console): `devtools::instal_github("openforis/oNFI")`
 
 -   **Bootstrap NFI sampling size (package name TBD)**
@@ -27,3 +26,11 @@ title: "Applications"
 -   **Height-diameter models**
 
 -   **MCredd: Monte Carlo uncertainty propagation for REDD+**
+  
+    MCredd guides users to organize data in a template in order to run MonteCarlo simulations for estimating the uncertainty of REDD+ greenhouse gas emissions and removals from forest changes.
+    
+    - Online version: [link](https://gaelsola.shinyapps.io/MCredd/) 
+    - Local installation:
+    `devtools::install_github("gaelso/MCredd")`
+    `MCredd::shiny_run_MCredd()`
+    
