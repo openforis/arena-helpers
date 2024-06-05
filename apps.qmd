@@ -29,7 +29,8 @@ title: "Applications"
   
     MCredd guides users to organize data in a template in order to run MonteCarlo simulations for estimating the uncertainty of REDD+ greenhouse gas emissions and removals from forest changes.
     
-    - Online version: [link](https://gaelsola.shinyapps.io/MCredd/) 
+    - Tool page: [link](https://r-mcredd.github.io/MCredd/)
+    - Online tool: [link](https://gaelsola.shinyapps.io/MCredd/) 
     - Local installation:
     `devtools::install_github("gaelso/MCredd")`
     `MCredd::shiny_run_MCredd()`
