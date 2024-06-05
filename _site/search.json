@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "All the\nAbout this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to arena-helpers",
+    "section": "",
+    "text": "arena-helpers is a collection of tools designed to support field inventories, survey designs and calculation processes that are not implemented directly in OpenForis Arena  \n\n \n\n\nShipped as R packages\nRuns locally, Easy to install Easy to maintain\n\n\nAvailable online\nFor the most code adverse users, run the applications directly from your browser"
+  },
+  {
+    "objectID": "apps.html",
+    "href": "apps.html",
+    "title": "Applications",
+    "section": "",
+    "text": "Support sampling designs and implementation\n\noNFI: Optimize national forest inventory design\nProvides indicative optimal sample size and plot design for forest inventories based on biomass maps or variance models and a minimalist series of action timers (driving to plot, measuring trees, etc.).\n\nOnline version: link\nLocal installation (R console): devtools::instal_github(\"openforis/oNFI\")\n\nBootstrap NFI sampling size (package name TBD)\nLauri’s app currently on openforis shinyapps.io\nNFI implementation dashboard (package name TBD)\nSimple app showing plot location and data collection status for tracking progress and management purposes.\n\n\n\nSupport calculations from raw data\n\nSPvalid: Species names validation tool\nHeight-diameter models\nMCredd: Monte Carlo uncertainty propagation for REDD+"
+  },
+  {
+    "objectID": "apps.html#support-sampling-designs",
+    "href": "apps.html#support-sampling-designs",
+    "title": "Applications",
+    "section": "",
+    "text": "oNFI: Optimize national forest inventory design\nThis app provides indicative optimal sample size and plot design based on biomass maps or variance models and a minimalist series of action timers (driving to plot, measuring trees, etc.).\n\nOnline version: link\nLocal installation (R console): devtools::instal_github(\"openforis/oNFI\")\n\nareana"
+  },
+  {
+    "objectID": "index.html#functionalities-shipped-as-r-packages",
+    "href": "index.html#functionalities-shipped-as-r-packages",
+    "title": "Welcome to arena-helpers",
+    "section": "Functionalities shipped as R packages",
+    "text": "Functionalities shipped as R packages\nRuns locally, easy to install, easy to maintain"
+  },
+  {
+    "objectID": "index.html#but-also-available-online",
+    "href": "index.html#but-also-available-online",
+    "title": "Welcome to arena-helpers",
+    "section": "But also available online",
+    "text": "But also available online\nAccessible directly from your browser"
+  },
+  {
+    "objectID": "apps.html#support-sampling-designs-and-implementation",
+    "href": "apps.html#support-sampling-designs-and-implementation",
+    "title": "Applications",
+    "section": "",
+    "text": "oNFI: Optimize national forest inventory design\nProvides indicative optimal sample size and plot design for forest inventories based on biomass maps or variance models and a minimalist series of action timers (driving to plot, measuring trees, etc.).\n\nOnline version: link\nLocal installation (R console): devtools::instal_github(\"openforis/oNFI\")\n\nBootstrap NFI sampling size (package name TBD)\nLauri’s app currently on openforis shinyapps.io\nNFI implementation dashboard (package name TBD)\nSimple app showing plot location and data collection status for tracking progress and management purposes."
+  },
+  {
+    "objectID": "apps.html#support-calculations-from-raw-data",
+    "href": "apps.html#support-calculations-from-raw-data",
+    "title": "Applications",
+    "section": "Support calculations from raw data",
+    "text": "Support calculations from raw data\n\nSPvalid: Species names validation tool\nHeight-diameter models\nMCredd: Monte Carlo uncertainty propagation for REDD+"
+  }
+]

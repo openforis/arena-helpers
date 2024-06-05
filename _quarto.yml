@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: ""
+  cookie-consent: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - apps.qmd
+      - about.qmd
+    logo: arena-helpers3.png
+    logo-alt: arena-helpers
+    logo-href: https://openforis.org/solutions/arena/
+    background: "#f8f9fa"
+    collapse: true
+    collapse-below: md
+    toggle-position: right
+  search: false
+
+format:
+  html:
+    theme: 
+    - yeti
+    - custom.scss
+    css: styles.css
+    toc: true
+
+editor: visual
+

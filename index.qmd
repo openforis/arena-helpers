@@ -1,0 +1,56 @@
+---
+title: "Welcome to arena-helpers"
+about:
+  template: jolla
+  image: landing2.png
+  image-shape: round
+  image-width: 300px
+---
+
+```{r, include=FALSE}
+library(bsicons)
+```
+
+```{r}
+#| echo: false
+#| column: body-outset
+
+# bslib::card(
+#   shiny::tags$p(
+#     shiny::tags$code("arena-helpers", style = "color: black"), " is a collection of tools designed to support field inventories, survey designs and calculation processes that cannot be implemented directly in ",
+#     shiny::tags$a(
+#       href = "https://openforis.org/solutions/arena/",
+#       "OpenForis Arena", 
+#       bsicons::bs_icon("box-arrow-up-right", class = "text-primary")),
+#     style = "font-size: x-large;"
+#   )
+# )
+
+```
+
+::: landing-para
+<code style="color:var(--bs-body-color);">arena-helpers</code> is a collection of tools designed to support field inventories, survey designs and calculation processes that are not implemented directly in [OpenForis Arena `r  bsicons::bs_icon("box-arrow-up-right", class = "text-primary")`](https://openforis.org/solutions/arena/)
+:::
+
+\  
+
+::: grid
+
+::: g-col-6
+
+### Shipped as R packages 
+
+Runs locally, 
+Easy to install
+Easy to maintain
+:::
+
+::: g-col-6
+
+### Available online
+
+For the most code adverse users, run the applications directly from your browser
+
+:::
+
+:::
